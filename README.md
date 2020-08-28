@@ -1,7 +1,7 @@
 # imarcaos
- Profile iMarcaos
+Marcos Melo - iMarcaos Profile
 
-![Marcos Melo - iMarcaos GitHub Stats](https://github-readme-stats.vercel.app/api?username=imarcaos&show_icons=true)
+Hello, I'm here too!
 
 <a target="_blank" href="mailto:marcaos.melo@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
@@ -16,3 +16,5 @@
 <a target="_blank" href="https://www.inxinet.com/#sobre/">
   <img align="left" alt="Personal Site" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/wordpress.svg" />
 </a>
+
+![Marcos Melo - iMarcaos GitHub Stats](https://github-readme-stats.vercel.app/api?username=imarcaos&show_icons=true)
