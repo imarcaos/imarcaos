@@ -19,6 +19,6 @@ Hello, I'm here too!
   <img align="left" alt="Personal Site" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/wordpress.svg" />
 </a>  
 
----
+<br/>
 
 ![Marcos Melo - iMarcaos GitHub Stats](https://github-readme-stats.vercel.app/api?username=imarcaos&show_icons=true)
