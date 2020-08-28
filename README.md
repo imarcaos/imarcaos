@@ -20,7 +20,6 @@ Hello, I'm here too!
 </a>  
 
 ***
-Stats
 
 ![Marcos Melo - iMarcaos GitHub Stats](https://github-readme-stats.vercel.app/api?username=imarcaos&show_icons=true)  
 
