@@ -14,5 +14,5 @@
 </a>
 
 <a target="_blank" href="https://www.inxinet.com/#sobre/">
-  <img align="left" alt="Personal Site" width="22px" src="https://icon-library.net//images/icon-cdn/icon-cdn-0.jpg" />
+  <img align="left" alt="Personal Site" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/wordpress.svg" />
 </a>
