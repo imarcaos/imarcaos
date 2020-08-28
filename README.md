@@ -1,5 +1,7 @@
 # imarcaos
-Marcos Melo - iMarcaos Profile
+Marcos Melo - iMarcaos Profile  
+
+***
 
 Hello, I'm here too!
 
@@ -15,6 +17,8 @@ Hello, I'm here too!
 
 <a target="_blank" href="https://www.inxinet.com/#sobre/">
   <img align="left" alt="Personal Site" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.0/icons/wordpress.svg" />
-</a>
+</a>  
+
+***
 
 ![Marcos Melo - iMarcaos GitHub Stats](https://github-readme-stats.vercel.app/api?username=imarcaos&show_icons=true)
